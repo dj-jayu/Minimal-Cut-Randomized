@@ -3,7 +3,7 @@ Implementation of the randomized graph contraction algorithm
 used to find the minimal cut of a simple, unidirected graph.
 The minimal cut is a way to cut a graph in two components,
 where the number of edges that crosses from one component
-to the other are minimized
+to the other is minimized
 """
 import math
 import random
